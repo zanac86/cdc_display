@@ -1,0 +1,14 @@
+---
+BasedOnStyle: WebKit
+AlignAfterOpenBracket: Align
+AlignConsecutiveAssignments: true
+AlignOperands: true
+BraceWrapping:
+  AfterStruct: true
+BreakBeforeBraces: Allman
+Cpp11BracedListStyle: true
+IndentCaseLabels: true
+NamespaceIndentation: All
+SortIncludes: false
+SpaceAfterTemplateKeyword: true
+UseCRLF: true
